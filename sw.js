@@ -8,7 +8,10 @@ const APP_SHELL = [
   './form.html',
   './css/style.css',
   './js/app.js',
-  './images/offline.png'
+  './images/offline.png',
+  './images/icons/192.png',
+  './images/icons/512.png',
+  './images/icons/180.png',
 ];
 
 
